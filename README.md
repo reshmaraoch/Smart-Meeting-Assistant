@@ -92,7 +92,7 @@ src/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-meeting-assistant.git
+git clone https://github.com/reshmaraoch/Smart-Meeting-Assistant.git
 cd smart-meeting-assistant
 ```
 
