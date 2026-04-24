@@ -4,6 +4,8 @@ A real-time AI meeting copilot that listens to live microphone audio, transcribe
 
 Built for meetings, interviews, brainstorming sessions, standups, lectures, and collaborative discussions.
 
+Website Link: https://smart-meeting-assistant-pi.vercel.app/
+
 
 ## Features
 
